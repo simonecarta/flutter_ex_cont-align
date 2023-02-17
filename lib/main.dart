@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: [
         createContainer('1', Color.fromARGB(255, 226, 17, 2), margin: 0),
-        createContainer('2', Colors.red, margin: 0),
+        createContainer('2', Color.fromARGB(255, 243, 59, 45), margin: 0),
         createContainer('3', Colors.red, margin: 0),
         createContainer('4', Colors.red, margin: 0),
         createContainer('5', Colors.red, margin: 0),
